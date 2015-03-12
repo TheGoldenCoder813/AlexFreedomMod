@@ -1,0 +1,410 @@
+# 
+# SuperAdmin List
+clean_threshold_hours: 168
+admins:
+  b3c3b05a-a52d-33a6-a9c6-6e5063e00f0a:
+    last_login_name: Prozza
+    is_activated: true
+    is_senior_admin: true
+    is_telnet_admin: true
+    ips: []
+    console_aliases:
+    - darth
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: the &5Lead Developer&b!
+  1156a81a-23fb-435e-9aff-fe9c2ea7e82d:
+    last_login_name: Madgeek1450
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    console_aliases:
+    - madgeek
+    ips:
+    - 1.2.3.4
+    - 8.8.8.8
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: the &4Co-Founder&b and &6Master-ass-kicker&b.
+  58a6ea8a-3ac3-4033-80e3-41bf9caa634b:
+    last_login_name: markbyron
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    console_aliases: []
+    ips:
+    - 8.8.4.4
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+  737b09cc-6a47-4c41-ba4e-6a7dd3eac023:
+    last_login_name: jayscoob
+    is_activated: true
+    is_telnet_admin: false
+    is_senior_admin: false
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: the &eChief of Security &band the &4Lead System Administrator&b!
+    console_aliases: []
+    ips:
+    - 69.141.109.149
+  3fd10194-b283-4b90-96fd-978d8fdfdaf4:
+    last_login_name: DaPancake
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: false
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 69.116.204.147
+  34bb75e0-da43-1d98-a59f-fb2968534bea:
+    last_login_name: Stampy100
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 50.175.125.227
+  9ba2aa66-06b5-4d99-97c6-db2c4d899ca4:
+    last_login_name: igloo8299
+    is_activated: true
+    is_telnet_admin: false
+    is_senior_admin: false
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 73.13.30.236
+  38c6f46b-8ad1-437f-af2f-ffc70da024ba:
+    last_login_name: StygianDiamond
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 23.243.114.75
+  36756328-bc66-4592-8b7e-e382744903ee:
+    last_login_name: chmgamer
+    is_activated: true
+    is_telnet_admin: false
+    is_senior_admin: false
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 173.81.164.216
+  3a14b423-babd-4056-ac8d-a9a68f0f4b0c:
+    last_login_name: charlie5690
+    is_activated: true
+    is_telnet_admin: false
+    is_senior_admin: false
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 64.58.31.74
+  bdb673eb-df72-44bc-a76e-06123d6dc377:
+    last_login_name: Wartodix
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 46.152.190.53
+  3e21b6f1-fa43-4d07-bccd-02e99dbc5bba:
+    last_login_name: XxPr0K1ll3rXx
+    is_activated: true
+    is_telnet_admin: false
+    is_senior_admin: false
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 71.10.85.85
+  cbb05f63-3669-42b5-8f0b-801a57510950:
+    last_login_name: xXKiller61Xx
+    is_activated: true
+    is_telnet_admin: false
+    is_senior_admin: false
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: the &4&lKiller &band a friendly &6Super Administrator&b.
+    console_aliases: []
+    ips:
+    - 100.37.31.249
+    - 100.37.62.39
+  2636c561-40ab-cfa0-4b04-0be391e32f47:
+    last_login_name: Gamer_Dude_556
+    is_activated: true
+    is_telnet_admin: false
+    is_senior_admin: false
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 97.93.229.65
+    - 97.93.241.18
+  89035a08-a3bf-af13-5919-3cc84edfb391:
+    last_login_name: omarheshamelamin
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 62.163.103.161
+  221b3a3d-5622-dc18-5dda-5d52df8f70ad:
+    last_login_name: DDQ888
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 24.156.5.188
+  2dd13dd1-fde1-52d6-fed6-4c55a6d2eb76:
+    last_login_name: Random_Gamer_556
+    is_activated: true
+    is_telnet_admin: false
+    is_senior_admin: false
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 97.93.229.65
+  2067df13-233e-40d4-e9fa-2520bace04de:
+    last_login_name: Fruit_Shaped
+    is_activated: true
+    is_telnet_admin: false
+    is_senior_admin: false
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 76.198.103.114
+  a84d9a20-03cb-5f41-f8c4-a9469af34ee3:
+    last_login_name: CreeperDaed
+    is_activated: true
+    is_telnet_admin: false
+    is_senior_admin: false
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 68.191.149.93
+  03b41e15-d03f-4025-86f5-f1812df200fa:
+    last_login_name: Elmon11
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: a &dSenior &6Potato Smasher &dAdmin
+    console_aliases: []
+    ips:
+    - 62.163.103.161
+  8867d296-97e9-4af6-bf84-e87cb3df5eba:
+    last_login_name: RobinGall2910
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 75.94.192.50
+  09a93f69-2871-6ecc-c8c2-c8f297111d08:
+    last_login_name: froosh9902
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 99.248.212.7
+  4f7c5ac2-710a-7397-2a57-907b8d592fe5:
+    last_login_name: MysteriAce
+    is_activated: true
+    is_telnet_admin: false
+    is_senior_admin: false
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 71.236.183.3
+  067d6b5e-b798-385f-ae8f-e245ff5d822a:
+    last_login_name: BeyPvP
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 74.74.164.72
+  ea3d25ff-0c55-4534-57d6-75fb48768258:
+    last_login_name: _xBaku
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 173.172.54.242
+    - 166.173.59.201
+  fd102d65-72bb-4022-b398-3d422a08e5b1:
+    last_login_name: RedSeaMC
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 24.38.219.6
+  b0162b1d-5d1e-430c-9d65-a9484c344078:
+    last_login_name: Robolawrence
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: a &dSenior Admin&b and the &cChief of Security&b.
+    console_aliases: []
+    ips:
+    - 73.34.90.162
+  ab9aee27-3b37-48be-804c-6810d5c0a643:
+    last_login_name: Windows_i7_8
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 24.156.5.188
+  c9f11d86-459c-4f3b-aadb-64a5f8c3c295:
+    last_login_name: tylerhyperHD
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 71.176.213.233
+  7e33fa20-5c85-4ede-a42c-f9dddc566c19:
+    last_login_name: Triplewer
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: '&bthe &9Owner &band the &4Founder'
+    console_aliases: []
+    ips:
+    - 99.110.205.33
+  0a1c4dae-ac54-4fb9-ac4f-c3d81fcf54a4:
+    last_login_name: 0sportguy0
+    is_activated: true
+    is_telnet_admin: false
+    is_senior_admin: false
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 47.55.222.90
+  01239f7e-ba23-4163-8c9f-3d4f2d9465a5:
+    last_login_name: Mrmoocho
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 76.92.238.185
+    - 64.126.75.102
+  3412afd1-56fe-4349-b79d-2da850fed616:
+    last_login_name: TheHarbringer
+    is_activated: true
+    is_telnet_admin: false
+    is_senior_admin: false
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 76.22.68.208
+  1321e5b0-9ff5-7119-48e3-08cd43f59b69:
+    last_login_name: Elmon11
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: a &dSenior &6Potato Smasher &dAdmin
+    console_aliases: []
+    ips:
+    - 62.163.103.161
+  2d3299af-4a19-424b-b988-d04e21655d88:
+    last_login_name: MrPerson660
+    is_activated: true
+    is_telnet_admin: false
+    is_senior_admin: false
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 96.229.219.197
+  4a87b832-c8f9-45f4-a403-238f4daeaee9:
+    last_login_name: TokyoShadowWolf
+    is_activated: true
+    is_telnet_admin: false
+    is_senior_admin: false
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 121.218.228.253
+  52e225f8-db18-49ca-934a-a6ca5bc2d9ef:
+    last_login_name: NotchyTheOcelot
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 68.227.9.204
+  6327dc2a-2ac4-1423-2ec6-54a6948898a2:
+    last_login_name: SlimehXD
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 90.215.22.112
+  6bf027e7-41f0-43ef-e156-b527e5f6e343:
+    last_login_name: Mrmoocho
+    is_activated: true
+    is_telnet_admin: false
+    is_senior_admin: false
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 76.92.238.185
+  c2695844-3b95-c916-cb27-36167fa434e8:
+    last_login_name: EXPLODINGTNT001
+    is_activated: true
+    is_telnet_admin: false
+    is_senior_admin: false
+    last_login: Sat, 7 Mar 2015 18:43:10 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 68.196.97.75
